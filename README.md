@@ -8,11 +8,7 @@
 
 # Salary Advance Request
 
-
-
-
-https://github.com/user-attachments/assets/ba3c6dd2-ce34-4472-9eb2-4ab42ce5fbcf
-
+https://github.com/user-attachments/assets/28271519-8b71-4769-a571-417aed4ee650
 
 
 # Leave Request
