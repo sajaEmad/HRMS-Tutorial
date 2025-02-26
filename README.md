@@ -1,5 +1,5 @@
 # HRMS-Tutorial
-employee user manual for HRMS
+This tutorial is designed to guide employees in using the HRMS (Human Resource Management System) application effectively. All the different request types and functionalities within the application are explained in detail in video format, ensuring that users can perform tasks with ease.
 # Leave Request
 
 
