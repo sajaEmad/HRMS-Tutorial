@@ -1,6 +1,5 @@
 # HRMS-Tutorial
-
-![press-pause](https://github.com/user-attachments/assets/c1e57581-e4e5-4866-b1dd-46894a5e9be1)
+![press-pause1](https://github.com/user-attachments/assets/68604cb6-fc17-43bb-8bba-440ecdc5458f)
 
 This tutorial is designed to guide employees in using the HRMS (Human Resource Management System) application effectively. All the different request types and functionalities within the application are explained in detail in video format, ensuring that users can perform tasks with ease.
 # Leave Request
