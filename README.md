@@ -14,7 +14,10 @@ https://github.com/user-attachments/assets/28271519-8b71-4769-a571-417aed4ee650
 # Leave Request
 
 
-https://github.com/user-attachments/assets/a63ac5b0-042f-46d2-833c-8351658468b6
+
+https://github.com/user-attachments/assets/a5723381-8640-4695-9735-397f42fb0c1b
+
+
 
 # Update Employee Profile Request
 
