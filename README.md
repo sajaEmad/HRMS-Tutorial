@@ -12,7 +12,8 @@ https://github.com/user-attachments/assets/76ccdddb-e222-4cb9-9ee5-8627ea32b5b0
 
 # Salary Advance Request
 
-https://github.com/user-attachments/assets/28271519-8b71-4769-a571-417aed4ee650
+
+https://github.com/user-attachments/assets/3e032388-0136-4ebb-9833-7df2ee53be32
 
 
 
