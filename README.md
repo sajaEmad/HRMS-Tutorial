@@ -6,9 +6,14 @@
   This tutorial is designed to guide employees in using the HRMS (Human Resource Management System) application effectively. All the different request types and functionalities within the application are explained in detail in video format, ensuring that users can perform tasks with ease.
 </div>
 
-# Salary Advance Request
+# Attendance Justification(Late come, missing checkin/checkout)
 
 https://github.com/user-attachments/assets/28271519-8b71-4769-a571-417aed4ee650
+# Salary Advance Request
+
+
+https://github.com/user-attachments/assets/76ccdddb-e222-4cb9-9ee5-8627ea32b5b0
+
 
 
 # Leave Request
