@@ -8,7 +8,11 @@
 
 # Attendance Justification(Late come, missing checkin/checkout)
 
-https://github.com/user-attachments/assets/76ccdddb-e222-4cb9-9ee5-8627ea32b5b0
+
+
+https://github.com/user-attachments/assets/ac42cf95-5d29-425d-8563-062db1e3dd01
+
+
 
 # Salary Advance Request
 
